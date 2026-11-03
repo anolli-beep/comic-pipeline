@@ -1,0 +1,27 @@
+# ---------------------------------------------------------------------------
+# Comic pipeline: shared settings for every comic channel. Each channel's own name, voice and
+# wording live in channels/<channel>.yaml. You don't need to touch code.
+# ---------------------------------------------------------------------------
+
+# ElevenLabs model. eleven_flash_v2_5 costs half the credits of eleven_multilingual_v2.
+elevenlabs_model: "eleven_multilingual_v2"
+
+# Picture
+width: 1920
+height: 1080
+fps: 24
+# How many CPU cores to draw with (GitHub's runners have 4).
+render_workers: 4
+
+# Burned-in subtitles of the narration (on top of the comic's own caption boxes).
+# Off by default: the comic caption boxes already carry the key lines. captions.srt is always made.
+burn_captions: false
+
+# Optional background music: put a royalty-free MP3 in assets/ and name it in the channel file.
+music_volume: 0.07
+
+# Short vertical clips (YouTube Shorts, Reels, TikTok, Facebook, Snapchat), cut from each video.
+make_clips: true
+clips_per_video: 3
+clip_max_seconds: 59
+clip_min_seconds: 25

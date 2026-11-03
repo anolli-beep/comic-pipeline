@@ -1,0 +1,20 @@
+# The comic channel. Fill in the two REPLACE lines before the first video (README, step 3).
+label: "Comic"
+channel_name: "REPLACE_WITH_CHANNEL_NAME"
+elevenlabs_voice_id: "REPLACE_WITH_VOICE_ID"
+
+# Look
+accent: "#d7262b"            # red used for sound effects, tags and highlights
+caption_colour: "#f7e07a"    # yellow caption boxes
+paper_colour: "#f4eedf"      # page paper between panels
+
+youtube_category: "News & Politics"
+music_file: "music-comic.mp3"          # in the assets folder (optional)
+timezone: "Europe/London"
+publish_times: ["18:00"]
+
+clip_note: "Full story on YouTube"     # small line at the bottom of short clips
+clip_caption_extra: ""
+end_card_line: "Sources in the description"
+description_note: |
+  Neutral explainer. Every fact is checked against at least two sources, figures are attributed to whoever gives them, and speech bubbles only ever contain real, sourced quotes. The comic artwork is an illustration, not a photograph or a likeness. Spotted an error? Leave a comment with a source.

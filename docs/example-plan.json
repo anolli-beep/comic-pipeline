@@ -1,0 +1,47 @@
+{
+ "channel": "comic",
+ "title": "Israel's Election Deadlock, Explained",
+ "alt_titles": ["Why Nobody Won Israel's Election", "53, 48, 19: Israel's Hung Parliament"],
+ "thumbnail_text": "NOBODY *WON*",
+ "thumbnail_tag": "ISRAEL · NOV 2026",
+ "thumbnail_badge": "EXPLAINED",
+ "thumbnail_panel": {"art": "duo", "bg": "red_burst", "who": {"preset": "official", "hair_colour": "grey", "mood": "serious"}, "other": {"preset": "official", "hair": "receding", "hair_colour": "grey", "mood": "determined"}, "flags": ["israel", "israel"]},
+ "description_summary": "EXAMPLE PLAN (short, for testing the layout). Israel's 27 October election left neither bloc with the 61 seats needed to govern.",
+ "tags": ["israel election", "netanyahu", "eisenkot", "knesset", "coalition"],
+ "publish_at": "2026-11-05T18:00:00+00:00",
+ "sources": [
+  {"title": "Times of Israel: with 90% counted", "url": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/"},
+  {"title": "Al Jazeera: Arab parties back Eisenkot", "url": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks"}
+ ],
+ "unverified": [],
+ "clips": [{"scenes": [1, 3], "hook": "Why nobody won Israel's election", "caption": "53, 48 and 19: the numbers behind Israel's deadlock.", "hashtags": ["israel", "election", "news", "explained"]}],
+ "scenes": [
+  {"chapter": "Introduction",
+   "narration": "On the twenty seventh of October, Israelis voted in a general election. When the count was almost finished, nobody had won. Benjamin Netanyahu's bloc had fifty three seats. Gadi Eisenkot's bloc had forty eight. To govern, you need sixty one.",
+   "page": {"layout": "trio_left", "panels": [
+     {"art": "ballot", "label": "Israel votes", "caption": "27 October 2026. Israel votes."},
+     {"art": "stat", "value": "53", "label": "Netanyahu's bloc", "bg": "blue_burst"},
+     {"art": "stat", "value": "48", "label": "Eisenkot's bloc", "bg": "red_burst", "caption": "61 seats are needed to govern.", "caption_pos": "bottom"}]}},
+  {"chapter": "The numbers",
+   "narration": "The other nineteen seats went to Arab-led parties, a record. Most of the Jewish-led opposition parties have ruled out partnering with them. That leaves both sides short, and the Arab parties holding the balance.",
+   "page": {"layout": "duo_v", "panels": [
+     {"art": "chart", "title": "Knesset seats", "labels": ["Netanyahu bloc", "Eisenkot bloc", "Arab-led parties"], "values": [53, 48, 19], "highlight": 2, "source": "Central Elections Committee, ~90% counted"},
+     {"art": "map", "region": "israel", "highlight": {"Israel": "#f2c230"}, "labels": ["Israel"], "markers": [{"lon": 35.21, "lat": 31.77, "label": "Jerusalem", "style": "star"}], "caption": "A record 19 seats for Arab-led parties."}]}},
+  {"narration": "Netanyahu says the right wing has a clear majority. Eisenkot says voters showed no confidence in the government. Both are now trying to build a coalition.",
+   "page": {"layout": "duo_v", "panels": [
+     {"art": "portrait", "who": {"preset": "official", "name": "Netanyahu", "hair_colour": "grey"}, "mood": "speaking", "talking": true, "flag": "israel", "bubble": {"text": "The right-wing bloc has a clear, decisive majority.", "source": "Netanyahu, 28 Oct (Times of Israel)"}},
+     {"art": "portrait", "who": {"preset": "official", "name": "Eisenkot", "hair": "receding", "hair_colour": "grey"}, "mood": "determined", "bg": "red_burst", "caption": "Eisenkot: voters showed no confidence in the government."}]}},
+  {"chapter": "What happens next",
+   "narration": "Results are certified this week. Then President Isaac Herzog meets every party and chooses who gets the first chance to form a government. That person has twenty eight days, which can be extended by fourteen.",
+   "pages": [
+    {"layout": "trio_bottom", "panels": [
+      {"art": "building", "kind": "parliament", "label": "The Knesset", "flag": "israel"},
+      {"art": "calendar", "date": "4 NOV", "year": 2026, "caption": "Results certified."},
+      {"art": "table", "who": {"preset": "official", "name": "Herzog", "hair_colour": "grey"}, "other": {"preset": "official", "name": "Party leaders"}, "flags": ["israel", "israel"], "label": "Consultations"}]},
+    {"layout": "splash", "panels": [
+      {"art": "stat", "value": "28 DAYS", "label": "to form a government", "note": "Can be extended by 14 days", "sfx": {"text": "TICK TOCK", "x": 0.8, "y": 0.2}}]}]},
+  {"narration": "Until then, the current government stays on as a caretaker. Sources are in the description.",
+   "page": {"layout": "splash", "panels": [
+     {"art": "question", "text": "Who will govern Israel?"}]}}
+ ]
+}
