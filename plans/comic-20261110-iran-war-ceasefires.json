@@ -1,0 +1,1383 @@
+{
+ "channel": "comic",
+ "title": "How the 2026 Iran War Began, and Why No Ceasefire Has Lasted",
+ "alt_titles": [
+  "Iran War Explained: Every Ceasefire, and Why Each One Failed",
+  "The Islamabad Memorandum: The Deal That Lasted Three Weeks",
+  "From Epic Fury to the Blockade: The Iran War So Far"
+ ],
+ "thumbnail_text": "WHY NO *PEACE*",
+ "thumbnail_tag": "IRAN WAR · NOV 2026",
+ "thumbnail_badge": "EXPLAINED",
+ "thumbnail_panel": {
+  "art": "map",
+  "region": "gulf",
+  "highlight": {
+   "Iran": "#b02a2a",
+   "United States of America": "#2a5db0"
+  },
+  "markers": [
+   {
+    "lon": 56.4,
+    "lat": 26.55,
+    "label": "Strait of Hormuz",
+    "style": "pulse"
+   }
+  ],
+  "labels": [
+   "Iran"
+  ]
+ },
+ "description_summary": "On 28 February 2026, the US and Israel attacked Iran and killed its Supreme Leader. Since then there have been a Pakistani-brokered ceasefire, the Islamabad Memorandum and a US naval blockade, and none has ended the war. This explainer goes through how the war began, what each ceasefire said, why each one broke down, and where talks stand as of 9 November 2026.",
+ "tags": [
+  "iran war",
+  "iran",
+  "iran ceasefire",
+  "strait of hormuz",
+  "islamabad memorandum",
+  "us iran talks",
+  "trump iran",
+  "middle east",
+  "oil prices",
+  "naval blockade",
+  "qatar mediation",
+  "news explained",
+  "current affairs",
+  "israel iran"
+ ],
+ "publish_at": "2026-11-10T18:00:00+00:00",
+ "sources": [
+  {
+   "title": "NPR: Iran's supreme leader killed (28 Feb 2026)",
+   "url": "https://www.npr.org/2026/02/28/nx-s1-5730158/israel-iran-strikes-trump-us"
+  },
+  {
+   "title": "Reuters via Carrier Management: US, Iran agree two-week ceasefire brokered by Pakistan (8 Apr 2026)",
+   "url": "https://www.carriermanagement.com/news/2026/04/08/286522.htm"
+  },
+  {
+   "title": "Al Jazeera: Iran, US presidents sign deal to extend ceasefire (17 Jun 2026)",
+   "url": "https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides"
+  },
+  {
+   "title": "Al Jazeera: Hormuz attacks intensify as efforts to end war stall (11 Oct 2026)",
+   "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall"
+  },
+  {
+   "title": "Al Jazeera: Qatar PM to meet Trump, latest on US-Iran negotiations (9 Nov 2026)",
+   "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
+  },
+  {
+   "title": "Critical Threats: Iran Update, 31 October 2026",
+   "url": "https://www.criticalthreats.org/analysis/iran-update-october-31-2026"
+  },
+  {
+   "title": "Wikipedia: 2026 Iran war",
+   "url": "https://en.wikipedia.org/wiki/2026_Iran_war"
+  },
+  {
+   "title": "Wikipedia: 2026 Iran war ceasefire",
+   "url": "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire"
+  },
+  {
+   "title": "Wikipedia: Islamabad Memorandum",
+   "url": "https://en.wikipedia.org/wiki/Islamabad_Memorandum"
+  },
+  {
+   "title": "Wikipedia: 2026 Strait of Hormuz crisis",
+   "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+  },
+  {
+   "title": "Wikipedia: September 2026 United States strikes on Iran",
+   "url": "https://en.wikipedia.org/wiki/September_2026_United_States_strikes_on_Iran"
+  },
+  {
+   "title": "Axios: Trump to meet Qatari prime minister about Iran mediation (9 Nov 2026)",
+   "url": "https://www.axios.com/2026/11/09/trump-qatar-prime-minister-iran-war-mediation"
+  }
+ ],
+ "unverified": [
+  {
+   "claim": "Casualty figures (Iran government 3,528; UN OCHA 3,400+ civilians)",
+   "reason": "From a mid-September snapshot on Wikipedia citing those bodies; attributed on screen. Check for newer figures before upload."
+  },
+  {
+   "claim": "Blockade restarted 'around 14 July'",
+   "reason": "CENTCOM date via Wikipedia; Al Jazeera says 'mid-July'. Script says 'around'."
+  },
+  {
+   "claim": "New York Times report on Basij chief and the 7 July attacks",
+   "reason": "Single outlet; attributed on screen."
+  },
+  {
+   "claim": "Rubio 'outrageous and ridiculous' and Araghchi 'rain down hell' quotes",
+   "reason": "Al Jazeera, 9 Nov; not yet checked against a wire. Shown as captions, not bubbles."
+  },
+  {
+   "claim": "Heiran-Nia quote",
+   "reason": "Via Wikipedia's Islamabad Memorandum page; attributed to the analyst."
+  },
+  {
+   "claim": "Brent figures ($100 on 8 Mar, about $118 on 31 Mar)",
+   "reason": "Via Wikipedia's Hormuz crisis page; chart labelled approximate."
+  },
+  {
+   "claim": "Story moves fast",
+   "reason": "Freshness check on the day: Trump's 9 Nov meeting with Qatar's PM may change the 'where things stand' chapter."
+  }
+ ],
+ "pronunciations": {
+  "Araghchi": "Ah-raag-chee",
+  "Pezeshkian": "Peh-zesh-kee-ahn",
+  "Ghalibaf": "Gah-lee-baaf",
+  "Baghaei": "Bah-gah-ee",
+  "Mojtaba": "Moj-tah-bah",
+  "Khamenei": "Hah-meh-nay",
+  "Shehbaz": "Sheh-baaz",
+  "Islamabad": "Iz-lah-mah-baad",
+  "Basij": "Bah-seej",
+  "Heiran-Nia": "Hey-rahn-Nee-ah",
+  "Kpler": "Kep-ler",
+  "Abdulrahman": "Ab-dul-rah-mahn"
+ },
+ "scenes": [
+  {
+   "chapter": "Introduction",
+   "narration": "On the morning of 28 February 2026, the United States and Israel launched a joint attack on Iran. Within hours, Iranian state media confirmed that the country's Supreme Leader, Ayatollah Ali Khamenei, had been killed. Iran fired back at Israel and at American bases across the Gulf. A wider war had begun.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "jets",
+      "count": 5,
+      "bg": "dawn_burst",
+      "caption": "28 February 2026. US and Israeli jets strike Iran.",
+      "sfx": "BOOM!"
+     },
+     {
+      "art": "newspaper",
+      "masthead": "THE DAILY COURIER",
+      "headline": "IRAN'S SUPREME LEADER KILLED",
+      "bg": "red"
+     },
+     {
+      "art": "missiles",
+      "count": 4,
+      "intercept": true,
+      "bg": "night",
+      "caption": "Iran fires back across the region.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Since then there have been ceasefires, talks in Pakistan, a signed memorandum and a naval blockade. Each time, the fighting stopped, and each time it started again. So how did this war begin, what did each ceasefire actually say, and why has none of them lasted? This is the story so far, told from every side, as of 9 November 2026.",
+   "page": {
+    "layout": "trio_top",
+    "panels": [
+     {
+      "art": "handshake",
+      "sleeves": [
+       "#1b2338",
+       "#2b2f38"
+      ],
+      "flags": [
+       "us",
+       "iran"
+      ],
+      "caption": "Ceasefires and talks..."
+     },
+     {
+      "art": "warship",
+      "kind": "destroyer",
+      "count": 2,
+      "flag": "us",
+      "bg": "dusk",
+      "caption": "...and a naval blockade."
+     },
+     {
+      "art": "question",
+      "text": "WHY HAS NO CEASEFIRE LASTED?",
+      "bg": "yellow_burst"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "The Road to War",
+   "narration": "This was not the first round. In June 2025, Israel and Iran fought what became known as the Twelve-Day War. Israel struck first, and the United States bombed Iranian nuclear sites. That war ended in a ceasefire after twelve days. But the core dispute, Iran's nuclear programme and how much uranium it could enrich, was never settled.",
+   "page": {
+    "layout": "trio_right",
+    "panels": [
+     {
+      "art": "calendar",
+      "date": "JUN",
+      "year": "2025",
+      "caption": "June 2025: the Twelve-Day War."
+     },
+     {
+      "art": "building",
+      "kind": "nuclear_site",
+      "label": "Nuclear site",
+      "bg": "dusk"
+     },
+     {
+      "art": "map",
+      "region": "middle_east",
+      "highlight": {
+       "Israel": "#2a5db0",
+       "Iran": "#b02a2a"
+      },
+      "labels": [
+       "Israel",
+       "Iran",
+       "Iraq",
+       "Saudi Arabia"
+      ],
+      "caption": "Israel and Iran: about 1,000 miles apart.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "In September 2025, United Nations sanctions on Iran were reimposed under the so-called snapback process. In December, Iran's currency collapsed. In January 2026, Iranian security forces killed anti-government protesters, and tensions with Washington rose sharply.",
+   "page": {
+    "layout": "quad",
+    "panels": [
+     {
+      "art": "document",
+      "title": "UN SANCTIONS",
+      "lines": 5,
+      "stamp": "REIMPOSED",
+      "caption": "September 2025: snapback."
+     },
+     {
+      "art": "money",
+      "symbol": "IRR",
+      "label": "December 2025: the rial collapses"
+     },
+     {
+      "art": "crowd",
+      "signs": [
+       "PROTEST"
+      ],
+      "count": 9,
+      "bg": "grey",
+      "caption": "January 2026: protests in Iran."
+     },
+     {
+      "art": "flag",
+      "flag": "iran",
+      "bg": "dark"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Through February, American and Iranian negotiators were still meeting to talk about the nuclear programme. At the same time, the United States moved its largest military force into the region since 2003. The talks were still running when the strikes began.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "table",
+      "who": {
+       "preset": "diplomat",
+       "name": "US negotiator"
+      },
+      "other": {
+       "preset": "diplomat",
+       "name": "Iranian negotiator",
+       "facial": "beard",
+       "tie": null
+      },
+      "flags": [
+       "us",
+       "iran"
+      ],
+      "label": "Nuclear talks",
+      "caption": "February 2026: talks continue."
+     },
+     {
+      "art": "warship",
+      "kind": "carrier",
+      "count": 2,
+      "flag": "us",
+      "bg": "day",
+      "caption": "The biggest US build-up since 2003.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "Epic Fury",
+   "narration": "The Pentagon called its operation Epic Fury. Israel called its own Roaring Lion. Israel's military said around two hundred jets hit about five hundred targets. President Trump said the aim was to eliminate imminent threats, destroy Iran's missiles and its navy. He also told Iranians that when America was finished, they should take over their government.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "title",
+      "text": "EPIC FURY",
+      "sub": "US operation, 28 February 2026",
+      "bg": "red_burst"
+     },
+     {
+      "art": "stat",
+      "value": "500",
+      "label": "targets, Israel's military says",
+      "bg": "blue"
+     },
+     {
+      "art": "podium",
+      "who": {
+       "preset": "president",
+       "name": "Donald Trump",
+       "hair": "swept",
+       "hair_colour": "blond",
+       "skin": "light"
+      },
+      "mood": "speaking",
+      "talking": true,
+      "flags": [
+       "us",
+       "us"
+      ],
+      "bubble": {
+       "text": "When we are finished, take over your government.",
+       "source": "Donald Trump, 28 February 2026 (NPR)",
+       "pos": "top_left"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Israeli Prime Minister Benjamin Netanyahu said the goal was to remove what he called the existential threat posed by the terrorist regime in Iran. Iran's Foreign Ministry called the attack a gross violation of its sovereignty. Iran said the attack came while it was still negotiating.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Benjamin Netanyahu",
+       "hair": "receding",
+       "hair_colour": "grey",
+       "skin": "light"
+      },
+      "mood": "serious",
+      "flag": "israel",
+      "caption": "Netanyahu: \"remove the existential threat posed by the terrorist regime in Iran\""
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "diplomat",
+       "name": "Abbas Araghchi",
+       "hair": "receding",
+       "hair_colour": "grey",
+       "facial": "beard",
+       "skin": "medium",
+       "tie": null
+      },
+      "mood": "serious",
+      "flag": "iran",
+      "caption": "Iran's Foreign Ministry: a \"gross violation\" of its sovereignty.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Iran's answer reached far beyond Israel. Missiles and drones were fired at Tel Aviv and Haifa. Others targeted US bases and Gulf states, including Bahrain, Kuwait, Qatar, Saudi Arabia and the UAE. Bahrain said a strike hit the base that hosts the US Navy's Fifth Fleet. Two days later, Hezbollah joined in from Lebanon, and Israel sent troops into southern Lebanon.",
+   "page": {
+    "layout": "trio_bottom",
+    "panels": [
+     {
+      "art": "map",
+      "region": "middle_east",
+      "highlight": {
+       "Iran": "#b02a2a",
+       "Israel": "#2a5db0",
+       "Bahrain": "#e0a020",
+       "Kuwait": "#e0a020",
+       "Qatar": "#e0a020",
+       "Saudi Arabia": "#e0a020",
+       "United Arab Emirates": "#e0a020",
+       "Lebanon": "#7a4ab0"
+      },
+      "arrows": [
+       {
+        "from": [
+         51.4,
+         35.7
+        ],
+        "to": [
+         34.8,
+         32.1
+        ],
+        "label": "Israel",
+        "colour": "#d02020",
+        "bend": 0.2
+       },
+       {
+        "from": [
+         51.4,
+         35.7
+        ],
+        "to": [
+         50.6,
+         26.2
+        ],
+        "label": "Bahrain",
+        "colour": "#d02020",
+        "bend": -0.2
+       }
+      ],
+      "markers": [
+       {
+        "lon": 51.39,
+        "lat": 35.69,
+        "label": "Tehran",
+        "style": "star"
+       }
+      ],
+      "caption": "Iran strikes Israel, US bases and Gulf states."
+     },
+     {
+      "art": "drones",
+      "count": 5,
+      "bg": "night"
+     },
+     {
+      "art": "flag",
+      "flag": "lebanon",
+      "caption": "2 March: Hezbollah joins in.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Then came the biggest shock to the world economy. From the first days of the war, shipping through the Strait of Hormuz almost stopped. Before the war, around a fifth of the world's seaborne oil passed through this narrow channel. On 8 March, Brent crude passed one hundred dollars a barrel for the first time in four years.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "map",
+      "region": "hormuz",
+      "highlight": {
+       "Iran": "#b02a2a",
+       "Oman": "#d0b060"
+      },
+      "markers": [
+       {
+        "lon": 56.4,
+        "lat": 26.55,
+        "label": "Strait of Hormuz",
+        "style": "pulse"
+       }
+      ],
+      "labels": [
+       "Iran",
+       "Oman",
+       "United Arab Emirates"
+      ],
+      "caption": "The Strait of Hormuz: the world's oil chokepoint."
+     },
+     {
+      "art": "tanker",
+      "blocked": true,
+      "label": "Stuck"
+     },
+     {
+      "art": "chart",
+      "type": "bar",
+      "title": "Brent crude, $ a barrel",
+      "labels": [
+       "8 Mar",
+       "31 Mar"
+      ],
+      "values": [
+       100,
+       118
+      ],
+      "prefix": "$",
+      "highlight": 1,
+      "source": "Approximate. Reported market prices"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "The First Ceasefire",
+   "narration": "For five weeks, the war widened. Iran named Mojtaba Khamenei, the late leader's son, as the new Supreme Leader. The Houthis in Yemen joined in at the end of March. On 7 April, President Trump posted a warning that a whole civilisation would die that night, never to be brought back again.",
+   "page": {
+    "layout": "trio_top",
+    "panels": [
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Mojtaba Khamenei",
+       "outfit": "robe",
+       "colour": "#2a2a2a",
+       "facial": "beard",
+       "hair_colour": "grey",
+       "skin": "medium",
+       "glasses": true
+      },
+      "mood": "serious",
+      "flag": "iran",
+      "caption": "8 March: a new Supreme Leader."
+     },
+     {
+      "art": "map",
+      "region": "red_sea",
+      "highlight": {
+       "Yemen": "#b02a2a"
+      },
+      "labels": [
+       "Yemen",
+       "Saudi Arabia"
+      ],
+      "caption": "Late March: the Houthis join in."
+     },
+     {
+      "art": "quote",
+      "text": "A whole civilization will die tonight, never to be brought back again.",
+      "by": "Donald Trump, 7 April 2026",
+      "bg": "red"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Instead, about two hours before his deadline, Trump announced a two week ceasefire. It had been brokered by Pakistan, led by Prime Minister Shehbaz Sharif. The deal was simple. The fighting would stop, Iran would allow ships through Hormuz, and the two sides would talk. Trump called it a total and complete victory.",
+   "page": {
+    "layout": "trio_right",
+    "panels": [
+     {
+      "art": "phone_call",
+      "who": {
+       "preset": "official",
+       "name": "Shehbaz Sharif",
+       "hair": "receding",
+       "hair_colour": "black",
+       "skin": "tan",
+       "glasses": true
+      },
+      "other": {
+       "preset": "president",
+       "name": "Donald Trump",
+       "hair": "swept",
+       "hair_colour": "blond",
+       "skin": "light"
+      },
+      "bg": "green",
+      "other_bg": "blue",
+      "caption": "Pakistan brokers a deal."
+     },
+     {
+      "art": "list",
+      "title": "7 April ceasefire",
+      "items": [
+       "Stop the fighting",
+       "Ships through Hormuz",
+       "Talks in Islamabad"
+      ]
+     },
+     {
+      "art": "podium",
+      "who": {
+       "preset": "president",
+       "name": "Donald Trump",
+       "hair": "swept",
+       "hair_colour": "blond",
+       "skin": "light"
+      },
+      "mood": "smiling",
+      "flags": [
+       "us",
+       "us"
+      ],
+      "caption": "Trump: a \"total and complete victory\".",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "But the two sides did not agree on what had been agreed. Pakistan's prime minister said the ceasefire covered Lebanon. Israel and the United States said it did not. Israel kept striking Hezbollah in Lebanon. Iran said those strikes broke the truce, and it again limited traffic through the strait.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "versus",
+      "left_title": "Pakistan and Iran",
+      "right_title": "US and Israel",
+      "left_items": [
+       "Lebanon is covered",
+       "Strikes there break the truce"
+      ],
+      "right_items": [
+       "Lebanon is not covered",
+       "Hezbollah is a separate fight"
+      ],
+      "left_flag": "iran",
+      "right_flag": "us",
+      "left_bg": "green",
+      "right_bg": "blue"
+     },
+     {
+      "art": "map",
+      "region": "levant",
+      "highlight": {
+       "Lebanon": "#7a4ab0",
+       "Israel": "#2a5db0"
+      },
+      "labels": [
+       "Lebanon",
+       "Israel",
+       "Syria"
+      ],
+      "caption": "The question nobody settled: Lebanon.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "On 11 April, Vice President JD Vance led a US team to Islamabad. It was the highest level meeting between the two countries since the 1979 revolution. After around twenty one hours, Vance announced there was no agreement. Two days later, the US Navy began a blockade of Iran's ports.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "table",
+      "who": {
+       "preset": "official",
+       "name": "JD Vance",
+       "hair": "short",
+       "hair_colour": "brown",
+       "facial": "beard",
+       "skin": "light"
+      },
+      "other": {
+       "preset": "official",
+       "name": "Mohammad Bagher Ghalibaf",
+       "hair": "short",
+       "hair_colour": "grey",
+       "facial": "beard",
+       "skin": "medium",
+       "tie": null
+      },
+      "flags": [
+       "us",
+       "iran"
+      ],
+      "label": "Islamabad, 11 April",
+      "talking": "who",
+      "caption": "The highest level talks since 1979."
+     },
+     {
+      "art": "stat",
+      "value": "21 hrs",
+      "label": "of talks, no deal",
+      "bg": "grey"
+     },
+     {
+      "art": "warship",
+      "kind": "destroyer",
+      "count": 3,
+      "flag": "us",
+      "bg": "dusk",
+      "caption": "13 April: the US blockade begins.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Even so, the ceasefire was not formally ended. On 21 April, Trump extended it at Pakistan's request, while keeping the blockade in place. Through May, the two sides traded strikes around the strait, each saying the other had broken the truce. A ceasefire existed on paper. At sea, it often did not.",
+   "page": {
+    "layout": "duo_h",
+    "panels": [
+     {
+      "art": "calendar",
+      "date": "21 APR",
+      "year": "2026",
+      "caption": "Ceasefire extended. Blockade stays."
+     },
+     {
+      "art": "missiles",
+      "count": 3,
+      "intercept": true,
+      "bg": "night",
+      "caption": "May: clashes around the strait.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "The Memorandum",
+   "narration": "In June, Pakistan tried again. On 17 June, Presidents Trump and Masoud Pezeshkian signed a memorandum of understanding, known as the Islamabad Memorandum. It was named after the city where much of it was negotiated. They signed it electronically, and a planned ceremony was cancelled. Trump told reporters simply, it's signed.",
+   "page": {
+    "layout": "trio_bottom",
+    "panels": [
+     {
+      "art": "document",
+      "title": "ISLAMABAD MEMORANDUM",
+      "lines": 6,
+      "stamp": "SIGNED",
+      "signature": true,
+      "bg": "yellow_burst"
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "president",
+       "name": "Donald Trump",
+       "hair": "swept",
+       "hair_colour": "blond",
+       "skin": "light"
+      },
+      "mood": "smiling",
+      "talking": true,
+      "flag": "us",
+      "bubble": {
+       "text": "It's signed.",
+       "source": "Donald Trump, 17 June 2026 (Al Jazeera)",
+       "pos": "top_right"
+      }
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Masoud Pezeshkian",
+       "hair": "short",
+       "hair_colour": "white",
+       "facial": "beard",
+       "skin": "medium",
+       "tie": null
+      },
+      "mood": "neutral",
+      "flag": "iran",
+      "caption": "Iran's president signs too.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "The Islamabad Memorandum, signed on 17 June, extended the ceasefire by sixty days, to give time for a final deal. Iran would reopen the strait. The US would lift its blockade and waive some oil sanctions. There was talk of a reconstruction fund of three hundred billion dollars. And Iran again said it would not seek nuclear weapons.",
+   "page": {
+    "layout": "quad",
+    "panels": [
+     {
+      "art": "stat",
+      "value": "60",
+      "label": "days to agree a final deal",
+      "bg": "blue"
+     },
+     {
+      "art": "ship",
+      "kind": "cargo",
+      "caption": "Iran reopens Hormuz."
+     },
+     {
+      "art": "document",
+      "title": "OIL SANCTIONS",
+      "lines": 4,
+      "stamp": "WAIVED"
+     },
+     {
+      "art": "money",
+      "symbol": "$",
+      "label": "$300bn fund (proposed)",
+      "caption": "A final deal would settle the details.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "But the hardest questions were left for later. Iran said it would charge fees for services in the strait. The US said it would be permanently toll-free. Iran said its enriched uranium would stay in the country. Its missiles were not discussed at all. And once again, Israel said it reserved the right to strike Lebanon.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "versus",
+      "left_title": "Iran said",
+      "right_title": "The US said",
+      "left_items": [
+       "Fees for services in Hormuz",
+       "Uranium stays in Iran",
+       "Missiles not negotiable"
+      ],
+      "right_items": [
+       "Hormuz permanently toll-free",
+       "Enrichment to be settled",
+       "Final deal within 60 days"
+      ],
+      "left_flag": "iran",
+      "right_flag": "us",
+      "left_bg": "green",
+      "right_bg": "blue"
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Esmaeil Baghaei",
+       "hair": "short",
+       "hair_colour": "black",
+       "facial": "beard",
+       "glasses": true,
+       "skin": "medium",
+       "tie": null
+      },
+      "mood": "speaking",
+      "talking": true,
+      "flag": "iran",
+      "bubble": {
+       "text": "Iran's missiles are only for firing, not for negotiation.",
+       "source": "Esmaeil Baghaei, June 2026 (Al Jazeera)",
+       "pos": "top_left"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "The Collapse",
+   "narration": "Within three days, Iran declared the strait closed again, citing Israeli strikes in Lebanon. In late June, the US and Iran exchanged strikes over claims of violations. Then, on 7 July, Iranian forces attacked commercial ships in the strait, including a Qatari gas tanker.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "map",
+      "region": "hormuz",
+      "highlight": {
+       "Iran": "#b02a2a"
+      },
+      "markers": [
+       {
+        "lon": 56.4,
+        "lat": 26.55,
+        "label": "Strait of Hormuz",
+        "style": "pulse"
+       }
+      ],
+      "caption": "20 June: Iran closes the strait again."
+     },
+     {
+      "art": "missiles",
+      "count": 2,
+      "bg": "night"
+     },
+     {
+      "art": "tanker",
+      "blocked": false,
+      "label": "Qatari LNG tanker",
+      "sfx": "KRAK!",
+      "caption": "7 July: ships attacked.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "The US struck back at dozens of Iranian targets and reimposed oil sanctions. Iran fired on US bases in Bahrain and Kuwait. On 8 July, President Trump said the memorandum was over, and that dealing with Tehran was a waste of time. Around 14 July, the US Navy restarted its blockade.",
+   "page": {
+    "layout": "trio_top",
+    "panels": [
+     {
+      "art": "jets",
+      "count": 4,
+      "bg": "dusk_burst",
+      "caption": "The US strikes back."
+     },
+     {
+      "art": "newspaper",
+      "masthead": "THE DAILY COURIER",
+      "headline": "TRUMP: DEAL 'OVER'"
+     },
+     {
+      "art": "warship",
+      "kind": "destroyer",
+      "count": 3,
+      "flag": "us",
+      "bg": "grey",
+      "caption": "Mid July: the blockade returns.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Iran blamed the United States, saying America broke the deal by bringing back oil sanctions. The US said the deal ended because Iran attacked shipping. According to the New York Times, Iran's own inquiries traced the 7 July attacks to the head of the Basij militia, not the government. On 17 August, the sixty day deadline passed with no final deal.",
+   "page": {
+    "layout": "trio_right",
+    "panels": [
+     {
+      "art": "versus",
+      "left_title": "Iran's view",
+      "right_title": "The US view",
+      "left_items": [
+       "US reimposed sanctions",
+       "So the US broke the deal"
+      ],
+      "right_items": [
+       "Iran attacked ships",
+       "So Iran broke the deal"
+      ],
+      "left_flag": "iran",
+      "right_flag": "us"
+     },
+     {
+      "art": "newspaper",
+      "masthead": "THE EVENING STANDARD-BEARER",
+      "headline": "WHO ORDERED THE ATTACKS?",
+      "caption": "Reported by the New York Times."
+     },
+     {
+      "art": "calendar",
+      "date": "17 AUG",
+      "year": "2026",
+      "caption": "The 60 day deadline passes.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "Why None Lasted",
+   "narration": "Look closely at each ceasefire, and a pattern appears. Every one of them stopped the shooting first, and left the three hardest questions for later. Who controls the Strait of Hormuz? Does the war include Lebanon? And what happens to Iran's enriched uranium? None of the deals answered those three questions in writing.",
+   "page": {
+    "layout": "quad",
+    "panels": [
+     {
+      "art": "title",
+      "text": "THE PATTERN",
+      "sub": "Stop shooting first, settle later",
+      "bg": "purple_burst"
+     },
+     {
+      "art": "ship",
+      "kind": "cargo",
+      "caption": "1. Who controls Hormuz?"
+     },
+     {
+      "art": "flag",
+      "flag": "lebanon",
+      "caption": "2. Is Lebanon included?"
+     },
+     {
+      "art": "building",
+      "kind": "nuclear_site",
+      "caption": "3. The uranium?",
+      "bg": "dusk"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Each time, the two sides signed up to different versions of the same deal. Iran read the deals one way, and the United States read them another. When one side acted on its version, the other called it a violation, and the fighting resumed. The analyst Javad Heiran-Nia put it this way. The memorandum was never intended to resolve the underlying dispute.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "scales",
+      "tilt": 0.0,
+      "labels": [
+       "Iran's version",
+       "America's version"
+      ],
+      "caption": "Two readings of one deal."
+     },
+     {
+      "art": "quote",
+      "text": "The memorandum was never intended to resolve the underlying dispute.",
+      "by": "Javad Heiran-Nia, analyst",
+      "bg": "dark"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Since then, the war has moved mostly to the sea. In September, the US struck Revolutionary Guard sites along Iran's southern coast. Iran fired at US bases in Bahrain, Jordan and Iraq. In the week to 5 October, at least a dozen ships were attacked, the most of the war so far.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "map",
+      "region": "gulf",
+      "highlight": {
+       "Iran": "#b02a2a",
+       "Bahrain": "#e0a020",
+       "Jordan": "#e0a020",
+       "Iraq": "#e0a020"
+      },
+      "markers": [
+       {
+        "lon": 56.27,
+        "lat": 27.18,
+        "label": "Bandar Abbas",
+        "style": "pulse"
+       }
+      ],
+      "caption": "September: strikes on Iran's coast."
+     },
+     {
+      "art": "drones",
+      "count": 4,
+      "bg": "night"
+     },
+     {
+      "art": "stat",
+      "value": "12+",
+      "label": "ships attacked in one week",
+      "note": "Week to 5 October",
+      "bg": "red",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "By early October, oil flows through the strait were about forty percent below normal, according to the data firm Kpler. The US says it has stopped Iranian oil leaving through its blockade line. The human cost is disputed. By mid September, Iran's government said more than three and a half thousand people had been killed in Iran. The UN humanitarian office reported more than three thousand four hundred civilian deaths.",
+   "page": {
+    "layout": "trio_top",
+    "panels": [
+     {
+      "art": "fuel_pump",
+      "from": "100",
+      "to": "60",
+      "unit": "%",
+      "caption": "Oil through Hormuz: about 40% below normal."
+     },
+     {
+      "art": "warship",
+      "kind": "destroyer",
+      "count": 2,
+      "flag": "us",
+      "bg": "dusk",
+      "caption": "The blockade line."
+     },
+     {
+      "art": "versus",
+      "left_title": "Iran's government says",
+      "right_title": "UN OCHA reports",
+      "left_items": [
+       "3,500+ killed in Iran",
+       "By mid September"
+      ],
+      "right_items": [
+       "3,400+ civilians killed",
+       "In Iran"
+      ],
+      "left_bg": "grey",
+      "right_bg": "grey",
+      "left_flag": "iran",
+      "right_flag": "un"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "Where Things Stand",
+   "narration": "Which brings us to now. On 6 November, Iran sent a new proposal through Qatar's mediators. It covers the nuclear programme and the strait. Iran says it will only discuss it after the United States meets seven demands. President Trump has confirmed that the White House is talking to Iranian representatives.",
+   "page": {
+    "layout": "trio_right",
+    "panels": [
+     {
+      "art": "phone_call",
+      "who": {
+       "preset": "diplomat",
+       "name": "Sheikh Mohammed bin Abdulrahman",
+       "outfit": "robe",
+       "colour": "#f2f2f2",
+       "facial": "beard",
+       "hair_colour": "black",
+       "skin": "tan",
+       "glasses": false
+      },
+      "other": {
+       "preset": "diplomat",
+       "name": "Abbas Araghchi",
+       "hair": "receding",
+       "hair_colour": "grey",
+       "facial": "beard",
+       "skin": "medium",
+       "tie": null
+      },
+      "bg": "purple",
+      "other_bg": "green",
+      "caption": "Qatar carries messages between them."
+     },
+     {
+      "art": "map",
+      "region": "gulf",
+      "highlight": {
+       "Qatar": "#7a2040",
+       "Iran": "#b02a2a"
+      },
+      "markers": [
+       {
+        "lon": 51.53,
+        "lat": 25.29,
+        "label": "Doha",
+        "style": "dot"
+       },
+       {
+        "lon": 51.39,
+        "lat": 35.69,
+        "label": "Tehran",
+        "style": "star"
+       }
+      ],
+      "labels": [
+       "Qatar",
+       "Iran"
+      ]
+     },
+     {
+      "art": "stat",
+      "value": "7",
+      "label": "Iranian demands",
+      "note": "As of 9 November 2026",
+      "bg": "yellow_burst",
+      "caption": "6 November: a new proposal.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Iran's demands include lifting the sanctions reimposed in July, ending the blockade, releasing frozen funds, and reducing US forces in the region. It also wants recognition of a new Iran and Oman shipping route through Hormuz. And it wants an end to the war on every front, including Lebanon.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "list",
+      "title": "Iran's demands include",
+      "items": [
+       "Lift the July sanctions",
+       "End the blockade",
+       "Release frozen funds",
+       "Fewer US forces",
+       "End war on all fronts"
+      ]
+     },
+     {
+      "art": "map",
+      "region": "hormuz",
+      "highlight": {
+       "Iran": "#b02a2a",
+       "Oman": "#d0b060"
+      },
+      "labels": [
+       "Iran",
+       "Oman"
+      ],
+      "markers": [
+       {
+        "lon": 56.4,
+        "lat": 26.55,
+        "label": "Strait of Hormuz",
+        "style": "pulse"
+       }
+      ],
+      "caption": "Iran wants its Iran and Oman route recognised.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Washington's position is very different. Secretary of State Marco Rubio called the demands outrageous and ridiculous and really not realistic. The US wants a meaningful cut in Iran's uranium enrichment. The IAEA says Iran holds about four hundred and forty kilograms of uranium enriched to sixty percent. Iran says its programme is peaceful.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "versus",
+      "left_title": "Iran wants",
+      "right_title": "The US wants",
+      "left_items": [
+       "Sanctions and blockade lifted first",
+       "Keep enriching uranium",
+       "War ended on all fronts"
+      ],
+      "right_items": [
+       "A meaningful cut in enrichment",
+       "Hormuz open to all",
+       "A deal before relief"
+      ],
+      "left_flag": "iran",
+      "right_flag": "us",
+      "left_bg": "green",
+      "right_bg": "blue"
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Marco Rubio",
+       "hair": "short",
+       "hair_colour": "black",
+       "skin": "light"
+      },
+      "mood": "serious",
+      "flag": "us",
+      "caption": "Rubio: demands \"outrageous and ridiculous\"."
+     },
+     {
+      "art": "stat",
+      "value": "440.9 kg",
+      "label": "uranium enriched to 60%",
+      "note": "IAEA figure",
+      "bg": "grey",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Both sides are also issuing warnings. Trump has said more strikes are highly unlikely if talks produce a strong agreement, but that new targets have been identified. Iran's foreign minister, Abbas Araghchi, has warned that Tehran would rain down hell if the US resumes attacks.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "president",
+       "name": "Donald Trump",
+       "hair": "swept",
+       "hair_colour": "blond",
+       "skin": "light"
+      },
+      "mood": "serious",
+      "flag": "us",
+      "caption": "Trump: new strikes \"highly unlikely\" if a strong deal is reached."
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "diplomat",
+       "name": "Abbas Araghchi",
+       "hair": "receding",
+       "hair_colour": "grey",
+       "facial": "beard",
+       "skin": "medium",
+       "tie": null
+      },
+      "mood": "determined",
+      "flag": "iran",
+      "caption": "Araghchi: Iran would \"rain down hell\" if attacks resume.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "So what should you watch? On 9 November, President Trump meets Qatar's prime minister at the White House. Vice President Vance is due to hold talks with him too. Watch whether Washington answers Iran's proposal, whether the blockade changes, and whether ships start moving through Hormuz again. Sources are in the description.",
+   "page": {
+    "layout": "trio_bottom",
+    "panels": [
+     {
+      "art": "building",
+      "kind": "white_house",
+      "flag": "us",
+      "label": "9 November",
+      "bg": "day",
+      "caption": "What to watch: talks at the White House."
+     },
+     {
+      "art": "list",
+      "title": "Watch for",
+      "items": [
+       "A US reply to Iran",
+       "Any change to the blockade",
+       "Ships through Hormuz"
+      ]
+     },
+     {
+      "art": "title",
+      "text": "SOURCES",
+      "sub": "In the description",
+      "bg": "blue_burst"
+     }
+    ]
+   }
+  }
+ ],
+ "clips": [
+  {
+   "scenes": [
+    1,
+    2
+   ],
+   "hook": "28 February 2026: the war begins",
+   "caption": "How the 2026 Iran war began, and the question nobody has answered since.",
+   "hashtags": [
+    "iran",
+    "news",
+    "explained",
+    "middleeast"
+   ]
+  },
+  {
+   "scenes": [
+    16,
+    17
+   ],
+   "hook": "The deal that lasted three weeks",
+   "caption": "What the Islamabad Memorandum said, and where Iran and the US disagreed.",
+   "hashtags": [
+    "iran",
+    "ceasefire",
+    "news",
+    "explained"
+   ]
+  },
+  {
+   "scenes": [
+    21,
+    22
+   ],
+   "hook": "Why no Iran ceasefire has lasted",
+   "caption": "Every truce stopped the shooting and left the hardest questions for later.",
+   "hashtags": [
+    "iran",
+    "hormuz",
+    "news",
+    "explained"
+   ]
+  }
+ ]
+}
