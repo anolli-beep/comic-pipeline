@@ -1,0 +1,1231 @@
+{
+ "channel": "comic",
+ "title": "The 2026 Midterms Explained: How Congress Flipped, and What Changes Now",
+ "alt_titles": [
+  "Why Democrats Won Both Chambers in 2026",
+  "Divided Government Is Back: What the Midterms Mean",
+  "The 2026 Midterms: What a Democratic Congress Can and Can't Do"
+ ],
+ "thumbnail_text": "CONGRESS *FLIPS*",
+ "thumbnail_tag": "US MIDTERMS · NOV 2026",
+ "thumbnail_panel": {
+  "art": "building",
+  "kind": "dome",
+  "bg": "blue_burst",
+  "flag": "us"
+ },
+ "description_summary": "On 3 November 2026, Democrats won control of both the Senate and the House. This explainer covers what was at stake, the key results, why voters swung according to the AP Voter Poll, how each party explains it, and what a Democratic Congress can and cannot do with a Republican president. Results as of 9 November 2026; some races are still being counted.",
+ "tags": [
+  "midterms 2026",
+  "2026 midterm elections",
+  "us midterms",
+  "congress",
+  "senate",
+  "house of representatives",
+  "democrats",
+  "republicans",
+  "trump",
+  "divided government",
+  "election results explained",
+  "us politics",
+  "hakeem jeffries",
+  "news explained"
+ ],
+ "publish_at": "2026-11-11T18:00:00+00:00",
+ "sources": [
+  {
+   "title": "PBS NewsHour (AP): Democrats take control of the Senate",
+   "url": "https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races"
+  },
+  {
+   "title": "PBS NewsHour (AP): How key groups voted, AP Voter Poll",
+   "url": "https://www.pbs.org/newshour/politics/ap-voter-poll-how-key-demographic-groups-voted-in-the-2026-midterms"
+  },
+  {
+   "title": "PBS NewsHour: Democrats usher in a new era with sweep of House and Senate",
+   "url": "https://www.pbs.org/newshour/politics/democrats-usher-in-a-new-era-with-their-resounding-sweep-of-the-house-and-the-senate"
+  },
+  {
+   "title": "CBS News: midterm election updates",
+   "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+  },
+  {
+   "title": "Yahoo News: midterms live updates",
+   "url": "https://www.yahoo.com/news/politics/live/midterms-2026-live-updates-election-day-voters-head-to-the-polls-as-democrats-look-to-flip-gop-control-of-the-house-and-senate-110000715.html"
+  },
+  {
+   "title": "SBS News: Democrats flip House and Senate",
+   "url": "https://www.sbs.com.au/news/live-blog/us-midterm-elections-2026-live-results/1un8q7w91"
+  },
+  {
+   "title": "Northeastern Global News: key races analysis",
+   "url": "https://news.northeastern.edu/2026/11/03/midterm-election-results-analysis-2026/"
+  },
+  {
+   "title": "Roll Call: Mike Johnson won't seek top GOP spot",
+   "url": "https://rollcall.com/2026/11/04/mike-johnson-will-not-seek-gop-leader-as-house-flips/"
+  },
+  {
+   "title": "NBC News: Johnson won't stay on as Republican leader",
+   "url": "https://www.nbcnews.com/politics/congress/house-speaker-mike-johnson-republican-leader-gop-losses-rcna607434"
+  },
+  {
+   "title": "Wikipedia: 2026 United States elections",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_elections"
+  }
+ ],
+ "unverified": [
+  {
+   "claim": "All seat counts and uncalled races (Alaska, Mississippi, Kansas governor)",
+   "reason": "Moving numbers as of 7 to 9 November. Check AP before upload and update scenes 7, 8, 10 and 11 if races have been called."
+  },
+  {
+   "claim": "Stephen Miller as chief of staff; Republican senators delaying leadership vote",
+   "reason": "CBS News live blog; check a second outlet before upload."
+  },
+  {
+   "claim": "Vance 'the reason we lost is the war', Cornyn 'forgot how to win', Warren investigations, Hamilton 'one-and-done'",
+   "reason": "CBS live blog only; shown as captions, not bubbles."
+  },
+  {
+   "claim": "Massie impeachment plan",
+   "reason": "Yahoo News live blog; attributed to Massie."
+  },
+  {
+   "claim": "Average midterm swing of about 25 House seats",
+   "reason": "Northeastern article; attributed on screen."
+  },
+  {
+   "claim": "AP Voter Poll percentages",
+   "reason": "Rounded from 'about 4 in 10' style wording; charts labelled rounded or approximate."
+  },
+  {
+   "claim": "First Black woman governor (Bottoms), first Black Florida governor (Donalds), first Muslim senator (El-Sayed)",
+   "reason": "Northeastern and SBS; El-Sayed's race had not been called by AP at the SBS update. Check the AP call before upload."
+  }
+ ],
+ "pronunciations": {
+  "Talarico": "Tal-ah-ree-koh",
+  "Ossoff": "Oss-off",
+  "Peltola": "Pel-toh-lah",
+  "Colom": "Koh-lohm",
+  "Hyde-Smith": "Hyde-Smith",
+  "El-Sayed": "El-Sah-yed",
+  "Husted": "Hus-ted",
+  "Cornyn": "Kor-nin",
+  "Massie": "Mass-ee",
+  "Hegseth": "Heg-seth",
+  "affidavit": "af-ih-day-vit"
+ },
+ "scenes": [
+  {
+   "chapter": "Introduction",
+   "narration": "On the night of 3 November 2026, a Democrat won a Senate race in Texas. No Democrat had won a statewide race there in thirty two years. By the end of the night, Democrats had also won Senate seats in Kansas, Iowa and South Carolina. Within hours, the AP reported they had taken control of the Senate.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "ballot",
+      "label": "3 November 2026",
+      "bg": "blue_burst",
+      "caption": "Election night, 3 November 2026."
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "James Talarico",
+       "hair": "short",
+       "hair_colour": "brown",
+       "skin": "light",
+       "colour": "#3a4a6a"
+      },
+      "mood": "smiling",
+      "caption": "Texas: James Talarico wins a Senate seat."
+     },
+     {
+      "art": "newspaper",
+      "masthead": "THE NATIONAL LEDGER",
+      "headline": "CONTROL OF SENATE CHANGES HANDS",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "A few days later, the House followed. For the first time since President Trump returned to office, his party had lost both chambers of Congress. So what happened, why did voters swing, and what can the new Congress actually do? This is the story as of 9 November 2026, with some races still being counted.",
+   "page": {
+    "layout": "trio_top",
+    "panels": [
+     {
+      "art": "building",
+      "kind": "dome",
+      "label": "US Capitol",
+      "bg": "dusk",
+      "caption": "Both chambers change hands."
+     },
+     {
+      "art": "calendar",
+      "date": "9 NOV",
+      "year": "2026",
+      "caption": "As of 9 November. Counting continues."
+     },
+     {
+      "art": "question",
+      "text": "WHAT CHANGES NOW?",
+      "bg": "purple_burst"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "What Was at Stake",
+   "narration": "Midterms happen halfway through a president's four year term. In 2026, all 435 seats in the House were up for election, along with 35 of the 100 Senate seats. Voters also chose 39 governors, and decided around a hundred ballot measures across 37 states.",
+   "page": {
+    "layout": "quad",
+    "panels": [
+     {
+      "art": "stat",
+      "value": "435",
+      "label": "House seats: all of them",
+      "bg": "blue"
+     },
+     {
+      "art": "stat",
+      "value": "35",
+      "label": "of 100 Senate seats",
+      "bg": "red"
+     },
+     {
+      "art": "stat",
+      "value": "39",
+      "label": "governors",
+      "bg": "yellow"
+     },
+     {
+      "art": "stat",
+      "value": "~100",
+      "label": "ballot measures in 37 states",
+      "bg": "green"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Going in, Republicans controlled both chambers. They held the Senate fifty three to forty seven, and had a narrow majority in the House. History was not on their side. The president's party usually loses seats in a midterm. According to Northeastern University researchers, the average swing against it is about twenty five House seats.",
+   "page": {
+    "layout": "trio_right",
+    "panels": [
+     {
+      "art": "chart",
+      "type": "bar",
+      "title": "Senate before the election",
+      "labels": [
+       "Republicans",
+       "Democrats"
+      ],
+      "values": [
+       53,
+       47
+      ],
+      "highlight": 0,
+      "source": "Senate, 2025 to 2026"
+     },
+     {
+      "art": "stat",
+      "value": "~25",
+      "label": "House seats the president's party loses, on average",
+      "bg": "grey",
+      "note": "Northeastern University"
+     },
+     {
+      "art": "building",
+      "kind": "white_house",
+      "flag": "us",
+      "label": "The president's party",
+      "bg": "day",
+      "caption": "Midterms usually punish the party in power.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "The maps had also changed. Several states redrew their House districts in the middle of the decade, including Texas, Missouri and North Carolina. California did the same through a ballot measure called Proposition 50. Some analysts expected those new maps to help Republicans. In the end, the swing to Democrats was larger than the map changes.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "map",
+      "region": "usa",
+      "markers": [
+       {
+        "lon": -97.7,
+        "lat": 30.3,
+        "label": "Texas",
+        "style": "dot"
+       },
+       {
+        "lon": -92.2,
+        "lat": 38.6,
+        "label": "Missouri",
+        "style": "dot"
+       },
+       {
+        "lon": -78.6,
+        "lat": 35.8,
+        "label": "N. Carolina",
+        "style": "dot"
+       },
+       {
+        "lon": -121.5,
+        "lat": 38.6,
+        "label": "California",
+        "style": "dot"
+       }
+      ],
+      "caption": "New district maps in several states."
+     },
+     {
+      "art": "document",
+      "title": "PROPOSITION 50",
+      "lines": 5,
+      "stamp": "CALIFORNIA",
+      "caption": "California redrew its map by ballot.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "Election Night",
+   "narration": "In the Senate, Democrats flipped seven Republican held seats, according to the AP. They were Texas, Kansas, Iowa, Ohio, Maine, North Carolina and South Carolina. In Ohio, Sherrod Brown returned to the Senate, defeating Senator Jon Husted. In Maine, Senator Susan Collins conceded to Troy Jackson.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "map",
+      "region": "usa",
+      "markers": [
+       {
+        "lon": -97.7,
+        "lat": 30.3,
+        "label": "Texas",
+        "style": "star"
+       },
+       {
+        "lon": -95.7,
+        "lat": 39.0,
+        "label": "Kansas",
+        "style": "star"
+       },
+       {
+        "lon": -93.6,
+        "lat": 41.6,
+        "label": "Iowa",
+        "style": "star"
+       },
+       {
+        "lon": -83.0,
+        "lat": 40.0,
+        "label": "Ohio",
+        "style": "star"
+       },
+       {
+        "lon": -69.8,
+        "lat": 44.3,
+        "label": "Maine",
+        "style": "star"
+       },
+       {
+        "lon": -78.6,
+        "lat": 35.8,
+        "label": "N. Carolina",
+        "style": "star"
+       },
+       {
+        "lon": -81.0,
+        "lat": 34.0,
+        "label": "S. Carolina",
+        "style": "star"
+       }
+      ],
+      "title": "Seven Senate flips",
+      "caption": "Seven Republican held seats flip, the AP reports."
+     },
+     {
+      "art": "list",
+      "title": "Senate flips",
+      "items": [
+       "Texas and Kansas",
+       "Iowa and Ohio",
+       "Maine",
+       "North Carolina",
+       "South Carolina"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Several of those wins broke long records. In Kansas, Adam Hamilton became the first Democrat to win one of the state's Senate seats since 1932. Democrats held their own seat in Georgia, where Jon Ossoff won re-election. By 7 November, CBS News reported that Democrats would hold at least fifty four Senate seats in January.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "stat",
+      "value": "1932",
+      "label": "last time Kansas elected a Democratic senator",
+      "bg": "yellow_burst"
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Jon Ossoff",
+       "hair": "short",
+       "hair_colour": "brown",
+       "skin": "light"
+      },
+      "mood": "smiling",
+      "caption": "Georgia: Ossoff holds his seat."
+     },
+     {
+      "art": "stat",
+      "value": "54+",
+      "label": "Democratic Senate seats in January",
+      "note": "CBS News, 7 November",
+      "bg": "blue",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "The House moved even further. Democrats needed a net gain of only three seats for a majority. By Saturday 7 November, the AP count had them at more than two hundred and fifty seats. That is well past the 218 needed to control the chamber. About twenty House races were still being counted.",
+   "page": {
+    "layout": "trio_top",
+    "panels": [
+     {
+      "art": "stat",
+      "value": "3",
+      "label": "seats Democrats needed to gain",
+      "bg": "grey"
+     },
+     {
+      "art": "stat",
+      "value": "250+",
+      "label": "Democratic House seats so far",
+      "note": "AP count, 7 November",
+      "bg": "blue"
+     },
+     {
+      "art": "chart",
+      "type": "bar",
+      "title": "House seats needed for control",
+      "labels": [
+       "Majority",
+       "Total"
+      ],
+      "values": [
+       218,
+       435
+      ],
+      "highlight": 0,
+      "source": "US House",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "There were firsts too. In Georgia, Democrat Keisha Lance Bottoms was elected the first Black woman to serve as a US state governor. In Florida, Republican Byron Donalds became the state's first Black governor. In Michigan, Abdul El-Sayed became the first Muslim elected to the Senate.",
+   "page": {
+    "layout": "trio_bottom",
+    "panels": [
+     {
+      "art": "title",
+      "text": "FIRSTS",
+      "sub": "Election night 2026",
+      "bg": "purple_burst"
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Keisha Lance Bottoms",
+       "hair": "short",
+       "hair_colour": "black",
+       "skin": "dark",
+       "colour": "#5a2a4a",
+       "tie": null
+      },
+      "mood": "smiling",
+      "caption": "Georgia: first Black woman governor."
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Byron Donalds",
+       "hair": "short",
+       "hair_colour": "black",
+       "skin": "dark",
+       "colour": "#2b2f38"
+      },
+      "mood": "smiling",
+      "caption": "Florida: first Black governor.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "Still Counting",
+   "narration": "Some races are still too close to call. In Alaska, Democrat Mary Peltola leads Senator Dan Sullivan by a few hundred votes, with about three quarters counted. If nobody passes fifty percent, Alaska's ranked choice count begins on 18 November.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "map",
+      "bbox": [
+       -170,
+       25,
+       -65,
+       72
+      ],
+      "markers": [
+       {
+        "lon": -149.9,
+        "lat": 61.2,
+        "label": "Alaska",
+        "style": "pulse"
+       },
+       {
+        "lon": -90.2,
+        "lat": 32.3,
+        "label": "Mississippi",
+        "style": "pulse"
+       }
+      ],
+      "caption": "Two Senate races still uncalled."
+     },
+     {
+      "art": "calendar",
+      "date": "18 NOV",
+      "year": "2026",
+      "caption": "Alaska's ranked choice count, if needed.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "In Mississippi, Democrat Scott Colom leads Senator Cindy Hyde-Smith by about two and a half thousand votes. Late mail and affidavit ballots are still being checked. Her campaign said it would see this through to the very end. In Kansas, the race for governor has triggered a hand count audit.",
+   "page": {
+    "layout": "trio_right",
+    "panels": [
+     {
+      "art": "stat",
+      "value": "~2,500",
+      "label": "votes between them in Mississippi",
+      "note": "AP, as of 7 November",
+      "bg": "grey"
+     },
+     {
+      "art": "document",
+      "title": "AFFIDAVIT BALLOTS",
+      "lines": 5,
+      "stamp": "UNDER REVIEW"
+     },
+     {
+      "art": "quote",
+      "text": "We will see this through to the very end!",
+      "by": "Cindy Hyde-Smith campaign",
+      "bg": "red",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "Why Voters Swung",
+   "narration": "So why did voters swing so hard? The AP Voter Poll surveyed about eighty thousand voters. About four in ten said the economy was the top issue facing the country. Roughly three in ten said the state of democracy. Only about one in ten named immigration or healthcare.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "chart",
+      "type": "bar",
+      "title": "Top issue facing the country",
+      "labels": [
+       "Economy",
+       "Democracy",
+       "Immigration"
+      ],
+      "values": [
+       40,
+       30,
+       10
+      ],
+      "suffix": "%",
+      "highlight": 0,
+      "source": "AP Voter Poll, rounded"
+     },
+     {
+      "art": "crowd",
+      "count": 9,
+      "signs": [],
+      "bg": "day",
+      "caption": "About 80,000 voters surveyed.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Views of the president mattered. About six in ten voters disapproved of how President Trump was handling the job. About four in ten said they voted to express opposition to him. Just under two in ten said they voted to express support. Roughly four in ten said he was not a factor.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "chart",
+      "type": "bar",
+      "title": "Why voters chose",
+      "labels": [
+       "Oppose Trump",
+       "Not a factor",
+       "Support Trump"
+      ],
+      "values": [
+       40,
+       40,
+       20
+      ],
+      "suffix": "%",
+      "source": "AP Voter Poll, approximate"
+     },
+     {
+      "art": "stat",
+      "value": "6 in 10",
+      "label": "disapproved of the president's handling of the job",
+      "bg": "red"
+     },
+     {
+      "art": "group",
+      "people": [
+       {
+        "preset": "voter",
+        "name": "Voters"
+       },
+       {
+        "preset": "citizen",
+        "name": "Voters"
+       },
+       {
+        "preset": "worker",
+        "name": "Voters"
+       }
+      ],
+      "caption": "Many said he was not a factor.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Some groups shifted sharply. About seven in ten voters under thirty backed the Democrat in their House race. In 2024, the youngest voters were roughly split between Trump and Kamala Harris. Hispanic voters moved too. About a third backed the Republican in their House race, down from roughly four in ten who voted for Trump in 2024.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "versus",
+      "left_title": "2024",
+      "right_title": "2026",
+      "left_items": [
+       "Under 30s: split",
+       "Hispanic: 4 in 10 Trump"
+      ],
+      "right_items": [
+       "Under 30s: 7 in 10 Dem",
+       "Hispanic: 1 in 3 Rep"
+      ],
+      "left_bg": "grey",
+      "right_bg": "blue"
+     },
+     {
+      "art": "stat",
+      "value": "7 in 10",
+      "label": "under 30s backed the Democrat",
+      "note": "AP Voter Poll",
+      "bg": "yellow",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Then there was the war with Iran, which began in February and pushed up petrol prices. Vice President JD Vance said the reason we lost is the war. President Trump said Iran was a piece of it, but he defended the decision. He said he did the right thing, and would have done it again.",
+   "page": {
+    "layout": "trio_top",
+    "panels": [
+     {
+      "art": "tanker",
+      "blocked": true,
+      "label": "Oil disrupted",
+      "caption": "The Iran war pushed up petrol prices."
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "JD Vance",
+       "hair": "short",
+       "hair_colour": "brown",
+       "facial": "beard",
+       "skin": "light"
+      },
+      "mood": "serious",
+      "flag": "us",
+      "caption": "Vance: \"the reason we lost is the war\"."
+     },
+     {
+      "art": "podium",
+      "who": {
+       "preset": "president",
+       "name": "Donald Trump",
+       "hair": "swept",
+       "hair_colour": "blond",
+       "skin": "light"
+      },
+      "mood": "speaking",
+      "talking": true,
+      "flags": [
+       "us",
+       "us"
+      ],
+      "bubble": {
+       "text": "I did the right thing. I would have done it again.",
+       "source": "Donald Trump, November 2026 (SBS, AFP)",
+       "pos": "top_left"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "Two Readings",
+   "narration": "The two parties tell this story differently. Democratic leader Hakeem Jeffries called it a change election. Senate leader Chuck Schumer called it a generational remake of the Senate map. Democrats point to cost of living and what they call a need for Congress to check the president.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "podium",
+      "who": {
+       "preset": "official",
+       "name": "Hakeem Jeffries",
+       "hair": "short",
+       "hair_colour": "black",
+       "skin": "dark",
+       "colour": "#1b2338"
+      },
+      "mood": "smiling",
+      "talking": true,
+      "flags": [
+       "us",
+       "us"
+      ],
+      "bubble": {
+       "text": "This is a change election.",
+       "source": "Hakeem Jeffries, November 2026 (Northeastern Global News)",
+       "pos": "top_right"
+      }
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Chuck Schumer",
+       "hair": "receding",
+       "hair_colour": "grey",
+       "glasses": true,
+       "skin": "light",
+       "colour": "#2b2f38"
+      },
+      "mood": "smiling",
+      "caption": "Schumer: \"a generational remake of the Senate map\".",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Republicans offer other explanations: the war, prices, and the quality of their candidates. Some Republicans were blunt about it. Senator John Cornyn wrote in the Wall Street Journal that Republicans forgot how to win elections. President Trump said that if he had been on the ballot, his party would have won. He also said Democrats did a good job, and that he was absolutely willing to accept the results.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "versus",
+      "left_title": "Democrats say",
+      "right_title": "Republicans say",
+      "left_items": [
+       "A change election",
+       "Voters want a check on power",
+       "Cost of living"
+      ],
+      "right_items": [
+       "The war cost us",
+       "Candidate quality",
+       "Trump was not on the ballot"
+      ],
+      "left_flag": "us",
+      "right_flag": "us",
+      "left_bg": "blue",
+      "right_bg": "red"
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "John Cornyn",
+       "hair": "short",
+       "hair_colour": "white",
+       "skin": "light",
+       "colour": "#2b2f38"
+      },
+      "mood": "concerned",
+      "caption": "Cornyn: Republicans \"forgot how to win elections\"."
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "president",
+       "name": "Donald Trump",
+       "hair": "swept",
+       "hair_colour": "blond",
+       "skin": "light"
+      },
+      "mood": "neutral",
+      "caption": "Trump: \"If I was on the ballot, we would have won.\"",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Some experts warn against reading too much into it. Northeastern's Martha Johnson said the results are not a clear endorsement of the Democratic policy agenda. Even one of the new senators sounded a warning. Adam Hamilton of Kansas said the wave could be one and done if Democrats do not focus on helping people.",
+   "page": {
+    "layout": "duo_h",
+    "panels": [
+     {
+      "art": "scales",
+      "tilt": 0.2,
+      "labels": [
+       "A vote against",
+       "A vote for"
+      ],
+      "caption": "A vote against one side, or for the other?"
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Adam Hamilton",
+       "hair": "short",
+       "hair_colour": "brown",
+       "skin": "light"
+      },
+      "mood": "serious",
+      "caption": "Hamilton: the wave could be \"one-and-done\".",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "The shock has already changed Washington. Speaker Mike Johnson says he will not run to lead House Republicans in the next Congress. Several Republican senators want to delay their own leadership vote. At the White House, Stephen Miller has been named chief of staff, replacing Susie Wiles.",
+   "page": {
+    "layout": "trio_right",
+    "panels": [
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Mike Johnson",
+       "hair": "short",
+       "hair_colour": "brown",
+       "glasses": true,
+       "skin": "light",
+       "colour": "#2b3448"
+      },
+      "mood": "concerned",
+      "caption": "Speaker Johnson will not seek the top Republican job."
+     },
+     {
+      "art": "table",
+      "who": {
+       "preset": "official",
+       "name": "Republican senators"
+      },
+      "other": {
+       "preset": "official",
+       "name": "Republican senators",
+       "hair_colour": "grey"
+      },
+      "label": "Leadership vote?",
+      "flags": [
+       "us",
+       "us"
+      ]
+     },
+     {
+      "art": "building",
+      "kind": "white_house",
+      "flag": "us",
+      "label": "New chief of staff",
+      "bg": "dusk",
+      "caption": "Stephen Miller replaces Susie Wiles.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "What Changes",
+   "narration": "Here is the key point. From January, America will have divided government. A Republican president, and a Congress run by Democrats. That does not hand Democrats the power to pass whatever they want. But it does hand them the power to block, to investigate, and to control the money.",
+   "page": {
+    "layout": "trio_top",
+    "panels": [
+     {
+      "art": "building",
+      "kind": "white_house",
+      "flag": "us",
+      "label": "Republican president",
+      "bg": "red"
+     },
+     {
+      "art": "building",
+      "kind": "dome",
+      "flag": "us",
+      "label": "Democratic Congress",
+      "bg": "blue"
+     },
+     {
+      "art": "list",
+      "title": "What Congress controls",
+      "items": [
+       "Which bills pass",
+       "Investigations",
+       "Government spending"
+      ],
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "Start with new laws. Any bill Congress passes needs the president's signature. Trump has already said he has the power of the veto. To override it, Congress needs a two thirds vote in both chambers. In the Senate, most bills also need sixty votes to get past a filibuster. Democrats will have about fifty four. So on most laws, they will still need some Republican votes.",
+   "page": {
+    "layout": "quad",
+    "panels": [
+     {
+      "art": "document",
+      "title": "NEW BILL",
+      "lines": 5,
+      "stamp": "VETOED",
+      "bg": "red_burst"
+     },
+     {
+      "art": "stat",
+      "value": "2/3",
+      "label": "of both chambers to override a veto",
+      "bg": "grey"
+     },
+     {
+      "art": "stat",
+      "value": "60",
+      "label": "Senate votes to beat a filibuster",
+      "bg": "blue"
+     },
+     {
+      "art": "chart",
+      "type": "bar",
+      "title": "Senate votes",
+      "labels": [
+       "Democrats",
+       "Filibuster",
+       "Override"
+      ],
+      "values": [
+       54,
+       60,
+       67
+      ],
+      "highlight": 0,
+      "source": "Approximate. Two races uncalled"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "But committees are different. Democrats will chair every committee in both chambers. They can hold hearings and issue subpoenas. Democratic Senator Elizabeth Warren has already promised serious investigations. Republican Congressman Thomas Massie has said he plans articles of impeachment against Defence Secretary Pete Hegseth unless he resigns.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "document",
+      "title": "SUBPOENA",
+      "lines": 6,
+      "stamp": "COMMITTEE",
+      "signature": true,
+      "caption": "Democrats will run every committee."
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Elizabeth Warren",
+       "hair": "short",
+       "hair_colour": "white",
+       "glasses": true,
+       "skin": "light",
+       "colour": "#4a2a5a",
+       "tie": null
+      },
+      "mood": "determined",
+      "caption": "Warren promises investigations."
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Thomas Massie",
+       "hair": "short",
+       "hair_colour": "brown",
+       "glasses": true,
+       "skin": "light",
+       "colour": "#3b3b3b"
+      },
+      "mood": "serious",
+      "caption": "Massie plans articles against Hegseth.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "The Senate also confirms the president's nominees, from cabinet members to federal judges. A Democratic Senate can slow or reject them. And Congress controls government funding. That gives Democrats leverage over spending, including money for the Iran war.",
+   "page": {
+    "layout": "trio_bottom",
+    "panels": [
+     {
+      "art": "building",
+      "kind": "columns",
+      "label": "Federal courts",
+      "bg": "grey",
+      "caption": "Judges need Senate approval."
+     },
+     {
+      "art": "money",
+      "symbol": "$",
+      "label": "Government funding"
+     },
+     {
+      "art": "warship",
+      "kind": "destroyer",
+      "count": 2,
+      "flag": "us",
+      "bg": "dusk",
+      "caption": "Including war funding.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "President Trump says he will work with Democrats over his last two years, but will not hesitate to use his veto. He has also called the Senate a roadblock. Democrats say their priorities are affordability and accountability. Whether the two sides can agree on anything is the big unknown.",
+   "page": {
+    "layout": "duo_v",
+    "panels": [
+     {
+      "art": "versus",
+      "left_title": "The president says",
+      "right_title": "Democrats say",
+      "left_items": [
+       "Will work with Democrats",
+       "Will use the veto"
+      ],
+      "right_items": [
+       "Affordability",
+       "Accountability"
+      ],
+      "left_flag": "us",
+      "right_flag": "us",
+      "left_bg": "red",
+      "right_bg": "blue"
+     },
+     {
+      "art": "handshake",
+      "sleeves": [
+       "#2b2f38",
+       "#1b2338"
+      ],
+      "caption": "Deal or deadlock?",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": "What to Watch",
+   "narration": "So what should you watch? On 13 November, the deadline for affidavit ballots in Mississippi. On 18 November, Alaska's ranked choice count, if it is needed. Then come the leadership elections, as both parties choose who will lead them in the House and Senate. Republicans in particular face a contest, with Steve Scalise and Jim Jordan both running.",
+   "page": {
+    "layout": "trio_right",
+    "panels": [
+     {
+      "art": "calendar",
+      "date": "13 NOV",
+      "year": "2026",
+      "caption": "Mississippi ballot deadline."
+     },
+     {
+      "art": "calendar",
+      "date": "18 NOV",
+      "year": "2026",
+      "caption": "Alaska's ranked choice count."
+     },
+     {
+      "art": "group",
+      "people": [
+       {
+        "preset": "official",
+        "name": "Hakeem Jeffries",
+        "hair": "short",
+        "hair_colour": "black",
+        "skin": "dark",
+        "colour": "#1b2338"
+       },
+       {
+        "preset": "official",
+        "name": "Chuck Schumer",
+        "hair": "receding",
+        "hair_colour": "grey",
+        "glasses": true,
+        "skin": "light",
+        "colour": "#2b2f38"
+       },
+       {
+        "preset": "official",
+        "name": "Mike Johnson",
+        "hair": "short",
+        "hair_colour": "brown",
+        "glasses": true,
+        "skin": "light",
+        "colour": "#2b3448"
+       }
+      ],
+      "caption": "New leaders for both parties.",
+      "caption_pos": "bottom"
+     }
+    ]
+   }
+  },
+  {
+   "chapter": null,
+   "narration": "On 3 January 2027, the new Congress is sworn in. If the House elects him, Hakeem Jeffries would become the first Black Speaker of the House. From then on, for the last two years of this presidency, every big decision in Washington will need both sides. Sources are in the description.",
+   "page": {
+    "layout": "trio_left",
+    "panels": [
+     {
+      "art": "calendar",
+      "date": "3 JAN",
+      "year": "2027",
+      "bg": "blue_burst",
+      "caption": "The new Congress is sworn in."
+     },
+     {
+      "art": "portrait",
+      "who": {
+       "preset": "official",
+       "name": "Hakeem Jeffries",
+       "hair": "short",
+       "hair_colour": "black",
+       "skin": "dark",
+       "colour": "#1b2338"
+      },
+      "mood": "smiling",
+      "flag": "us",
+      "caption": "Could be the first Black Speaker."
+     },
+     {
+      "art": "title",
+      "text": "SOURCES",
+      "sub": "In the description",
+      "bg": "yellow_burst"
+     }
+    ]
+   }
+  }
+ ],
+ "clips": [
+  {
+   "scenes": [
+    1,
+    2
+   ],
+   "hook": "The night Congress flipped",
+   "caption": "How the 2026 midterms ended Republican control of both chambers.",
+   "hashtags": [
+    "midterms",
+    "congress",
+    "uspolitics",
+    "explained"
+   ]
+  },
+  {
+   "scenes": [
+    17,
+    18
+   ],
+   "hook": "Two parties, two explanations",
+   "caption": "How Democrats and Republicans each explain the 2026 midterm result.",
+   "hashtags": [
+    "midterms",
+    "uspolitics",
+    "news",
+    "explained"
+   ]
+  },
+  {
+   "scenes": [
+    20,
+    21
+   ],
+   "hook": "What a Democratic Congress can do",
+   "caption": "Divided government: the veto, the filibuster and what Congress controls.",
+   "hashtags": [
+    "congress",
+    "midterms",
+    "uspolitics",
+    "explained"
+   ]
+  }
+ ]
+}
