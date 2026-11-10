@@ -1,7 +1,7 @@
 # The comic channel. Fill in the two REPLACE lines before the first video (README, step 3).
 label: "Comic"
-channel_name: "REPLACE_WITH_CHANNEL_NAME"
-elevenlabs_voice_id: "REPLACE_WITH_VOICE_ID"
+channel_name: "Cartoonishly Political"
+elevenlabs_voice_id: "7PbNGDB5sJCFnOZuMPNL"
 
 # Look
 accent: "#d7262b"            # red used for sound effects, tags and highlights
